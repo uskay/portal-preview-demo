@@ -1,0 +1,14 @@
+body {
+    font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI","Noto Sans Japanese","ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+}
+div {
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+  font-size: 1.2em;
+  margin-bottom:10px;
+}
+button {
+  font-size: 1.2em;
+}
